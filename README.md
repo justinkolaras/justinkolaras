@@ -5,3 +5,5 @@ Created an API to interlink my Discord bot with Roblox game servers remotely [ju
 Worked on miscallaneous Roblox game projects, such as [justinkolaras/NS-V2-Game](https://github.com/justinkolaras/NS-V2-Game)  
   
 My account also details my amateur work with other languages, such as Rust, C#, and C++
+
+Fun fact: also a competitive speed typist :)
